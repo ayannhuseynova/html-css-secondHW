@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+}
+header {
+  margin: 6vh 5vw;
+}
+.blog-name {
+  font-size: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.links {
+  margin-top: 2vh;
+  float: right;
+  vertical-align: middle;
+}
+.links a {
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.links a:hover {
+  color: rgb(0, 174, 255);
+  opacity: 0.7;
+  transition: 0.6s;
+}
+#first-col,
+#second-col {
+  margin: 6vh 5vw;
+}
+.database {
+  width: 100%;
+}
+.title-blog {
+  display: inline-block;
+  width: 40vw;
+}
+.box {
+  display: inline;
+  float: right;
+}
+.title {
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.margin-zero {
+  margin-bottom: -1.5vh;
+}
+.aziz,
+.lorem-text {
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.lorem-text {
+  padding-bottom: 8vh;
+  border-bottom: 1px solid darkgray;
+}
+.small-box {
+  background-color: #fed861;
+  padding: 2vh 2.2vw;
+}
+.small-box h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fe5353;
+  padding: 1.4vh 4vw;
+  color: white;
+}
+.list li a {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+}
+.title:hover {
+  color: rgb(0, 174, 255);
+  opacity: 0.7;
+  transition: 0.6s;
+}
+
+.list li a:hover {
+  color: rgb(255, 111, 111);
+  opacity: 0.7;
+  transition: 0.6s;
+}
